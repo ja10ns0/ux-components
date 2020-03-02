@@ -1,0 +1,30 @@
+[
+    {
+        "label": "raised",
+        "selector": "<ntx-raised-button>"
+    },
+    {
+        "label": "icon raised",
+        "selector": "<ntx-raised-icon-button>"
+    },
+    {
+        "label": "icon",
+        "selector": "<ntx-icon-button>"
+    },
+    {
+        "label": "fab",
+        "selector": "<ntx-fab-button>"
+    },
+    {
+        "label": "mini fab",
+        "selector": "<ntx-mini-fab-button>"
+    },
+    {
+        "label": "square",
+        "selector": "<ntx-square-button>"
+    },
+    {
+      "label": "speed dial",
+      "selector": "<ntx-fab-speed-dial-button>"
+  }
+]
